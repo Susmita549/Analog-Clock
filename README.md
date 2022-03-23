@@ -1,2 +1,2 @@
 # Analog-Clock
-Clock
+A Simple Analog Clock
